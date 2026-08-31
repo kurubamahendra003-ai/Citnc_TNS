@@ -1,4 +1,4 @@
-package org.tnisf.acc.c2tc.CollectionDemo;
+package org.tnsif.acc.c2tc.collectiondemo;
 import java.util.List;
 import java.util.Vector;
 

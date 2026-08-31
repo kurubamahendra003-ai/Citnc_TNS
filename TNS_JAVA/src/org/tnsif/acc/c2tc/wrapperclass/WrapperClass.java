@@ -1,4 +1,4 @@
-package org.tnisf.acc.c2tc.WrapperClass;
+package org.tnsif.acc.c2tc.wrapperclass;
 
 public class WrapperClass {
 	

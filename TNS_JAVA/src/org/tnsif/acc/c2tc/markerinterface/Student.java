@@ -1,4 +1,4 @@
-package org.tnisf.acc.c2tc.MarkerInterface;
+package org.tnsif.acc.c2tc.markerinterface;
 
 public class Student  implements Registration
 {
