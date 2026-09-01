@@ -20,3 +20,4 @@ public class ArithmeticExceptionDemo {
 		System.out.println(number4);
 
 	}
+}
